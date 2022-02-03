@@ -1,4 +1,4 @@
-package fund03Arrayss;
+package fund03Arrays;
 
 import java.util.Scanner;
 
