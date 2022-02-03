@@ -1,4 +1,4 @@
-package fund03Arrays.Exercises;
+package fund03Arrayss.Exercises;
 
 import java.util.Arrays;
 import java.util.Scanner;

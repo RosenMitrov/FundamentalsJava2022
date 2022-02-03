@@ -1,28 +1,30 @@
-package fund03Arrays.Lab;
+package fund03Arrayss.Lab;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class fund07CondenseArrayNumber2 {
+//created by R.M.
+public class fund07CondenseArrayNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int[] numbersArr = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        int iteration = numbersArr.length - 1;
 
-        while (numbersArr.length > 1) {
-            int[] condensedArray = new int[numbersArr.length - 1];
+        for (int i = 0; i < iteration; i++) {
+            int[] condensed = new int[numbersArr.length - 1];
 
-            for (int i = 0; i < condensedArray.length; i++) {
-                int leftNum = numbersArr[i];
-                int rightNum = numbersArr[i + 1];
-                condensedArray[i] = leftNum + rightNum;
+            for (int j = 0; j < condensed.length; j++) {
+                condensed[j] = numbersArr[j] + numbersArr[j + 1];
             }
-            numbersArr = condensedArray;
+
+            numbersArr = condensed;
+        }
+        for (int num : numbersArr) {
+            System.out.println(num);
         }
 
-        for (int number : numbersArr) {
-            System.out.println(number);
-        }
+
     }
 }
 /*

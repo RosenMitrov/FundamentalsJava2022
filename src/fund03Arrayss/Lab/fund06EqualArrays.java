@@ -1,5 +1,5 @@
 
-package fund03Arrays.Lab;
+package fund03Arrayss.Lab;
 import java.util.Scanner;
 
 public class fund06EqualArrays {
