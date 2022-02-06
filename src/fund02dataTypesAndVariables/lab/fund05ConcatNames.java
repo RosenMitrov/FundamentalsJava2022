@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.lab;
 
 import java.util.Scanner;
 
-public class fund05ConcatNames {
+public class Fund05ConcatNames {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -3,7 +3,7 @@ package fund03Arrays.Lab;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class fund07CondenseArrayNumber2 {
+public class Fund07CondenseArrayNumber2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

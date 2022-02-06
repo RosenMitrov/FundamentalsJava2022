@@ -3,7 +3,7 @@ package fund03Arrays.Exercises;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class fund07MaxSequenceOfEqualElements {
+public class Fund07MaxSequenceOfEqualElements {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

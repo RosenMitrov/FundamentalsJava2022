@@ -3,7 +3,7 @@ package fund04Methods.exercises;
 import java.util.*;
 
 //created by R.M.
-public class fund11ArrayManipulator {
+public class Fund11ArrayManipulator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

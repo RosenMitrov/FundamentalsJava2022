@@ -3,7 +3,7 @@ package fund04Methods.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund07NxNMatrix {
+public class Fund07NxNMatrix {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

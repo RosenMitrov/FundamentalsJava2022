@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund08BeerKegs {
+public class Fund08BeerKegs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int kegs = Integer.parseInt(scanner.nextLine());

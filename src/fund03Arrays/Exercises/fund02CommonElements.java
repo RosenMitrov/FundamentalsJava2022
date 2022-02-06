@@ -3,7 +3,7 @@ package fund03Arrays.Exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund02CommonElements {
+public class Fund02CommonElements {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

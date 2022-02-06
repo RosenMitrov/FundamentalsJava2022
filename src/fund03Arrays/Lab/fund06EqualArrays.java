@@ -2,7 +2,7 @@
 package fund03Arrays.Lab;
 import java.util.Scanner;
 
-public class fund06EqualArrays {
+public class Fund06EqualArrays {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

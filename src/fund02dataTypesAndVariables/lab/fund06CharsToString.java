@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.lab;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund06CharsToString {
+public class Fund06CharsToString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

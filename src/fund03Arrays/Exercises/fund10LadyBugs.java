@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund10LadyBugs {
+public class Fund10LadyBugs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

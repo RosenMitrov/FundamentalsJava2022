@@ -3,7 +3,7 @@ package fund04Methods.lab;
 import java.util.Scanner;
 
 //created byt R.M.
-public class fund06CalculateRectangleArea {
+public class Fund06CalculateRectangleArea {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int width = Integer.parseInt(scanner.nextLine());

@@ -3,7 +3,7 @@ package fund04Methods.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund08FactorialDivision {
+public class Fund08FactorialDivision {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

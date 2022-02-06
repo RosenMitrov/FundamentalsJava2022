@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.lab;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund09CenturiesToMinutes {
+public class Fund09CenturiesToMinutes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

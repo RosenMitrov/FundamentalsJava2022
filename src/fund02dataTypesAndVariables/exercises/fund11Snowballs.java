@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund11Snowballs {
+public class Fund11Snowballs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());

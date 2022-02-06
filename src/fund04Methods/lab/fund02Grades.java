@@ -3,7 +3,7 @@ package fund04Methods.lab;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund02Grades {
+public class Fund02Grades {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

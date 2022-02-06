@@ -3,7 +3,7 @@ package fund03Arrays.Lab;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund05EvenAndOddSubtraction {
+public class Fund05EvenAndOddSubtraction {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

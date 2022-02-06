@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund11ArrayManipulator2 {
+public class Fund11ArrayManipulator2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

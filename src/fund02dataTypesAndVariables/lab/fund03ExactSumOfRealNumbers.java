@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund03ExactSumOfRealNumbers {
+public class Fund03ExactSumOfRealNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.lab;
 
 import java.util.Scanner;
 
-public class fund02PoundsToDollars {
+public class Fund02PoundsToDollars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

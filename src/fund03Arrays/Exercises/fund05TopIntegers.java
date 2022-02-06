@@ -3,7 +3,7 @@ package fund03Arrays.Exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund05TopIntegers {
+public class Fund05TopIntegers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

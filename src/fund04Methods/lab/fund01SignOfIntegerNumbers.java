@@ -3,7 +3,7 @@ package fund04Methods.lab;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund01SignOfIntegerNumbers {
+public class Fund01SignOfIntegerNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = Integer.parseInt(scanner.nextLine());

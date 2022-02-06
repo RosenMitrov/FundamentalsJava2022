@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.MoreExercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund06BalancedBrackets {
+public class Fund06BalancedBrackets {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

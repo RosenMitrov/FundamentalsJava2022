@@ -3,7 +3,7 @@ package fund04Methods.exercises;
 import java.util.Scanner;
 
 //created By R.M.
-public class fund05AddAndSubtract {
+public class Fund05AddAndSubtract {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package fund02dataTypesAndVariables.exercises;
 
 import java.util.Scanner;
 
-public class fund10PokeMon {
+public class Fund10PokeMon {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

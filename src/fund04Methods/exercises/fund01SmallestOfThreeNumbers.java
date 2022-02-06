@@ -3,7 +3,7 @@ package fund04Methods.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund01SmallestOfThreeNumbers {
+public class Fund01SmallestOfThreeNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num1 = Integer.parseInt(scanner.nextLine());

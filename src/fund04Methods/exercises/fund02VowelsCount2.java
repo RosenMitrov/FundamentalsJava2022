@@ -2,7 +2,7 @@ package fund04Methods.exercises;
 
 import java.util.Scanner;
 
-public class fund02VowelsCount2 {
+public class Fund02VowelsCount2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

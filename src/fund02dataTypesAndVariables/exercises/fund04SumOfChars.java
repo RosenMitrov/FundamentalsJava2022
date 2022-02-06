@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund04SumOfChars {
+public class Fund04SumOfChars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

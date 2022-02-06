@@ -3,7 +3,7 @@ package fund04Methods.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund09PalindromeIntegers {
+public class Fund09PalindromeIntegers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

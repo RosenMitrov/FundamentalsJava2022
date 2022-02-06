@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.lab;
 
 import java.util.Scanner;
 
-public class fun01ConvertMetersToKm {
+public class Fun01ConvertMetersToKm {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -3,7 +3,7 @@ package fund04Methods.lab;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund11MathOperations {
+public class Fund11MathOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int firstNum = Integer.parseInt(scanner.nextLine());

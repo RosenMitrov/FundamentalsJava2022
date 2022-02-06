@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.lab;
 
 import java.util.Scanner;
 
-public class fund04TownInfo {
+public class Fund04TownInfo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

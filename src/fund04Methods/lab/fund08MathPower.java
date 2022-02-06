@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund08MathPower {
+public class Fund08MathPower {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

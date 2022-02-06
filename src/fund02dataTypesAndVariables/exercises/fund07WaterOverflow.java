@@ -3,7 +3,7 @@ package fund02dataTypesAndVariables.exercises;
 import java.util.Scanner;
 
 //created by R.M.
-public class fund07WaterOverflow {
+public class Fund07WaterOverflow {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int capacity = 255;
