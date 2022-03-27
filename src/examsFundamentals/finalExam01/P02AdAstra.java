@@ -46,7 +46,7 @@ public class P02AdAstra {
         Scanner scanner = new Scanner(System.in);
 
         String text = scanner.nextLine();
-        String regex = "([|#])(?<item>[a-zA-Z\\s]+)\\1(?<expirationDate>\\d{2}[\\/]\\d{2}[\\/]\\d{2})\\1(?<calories>[\\d]{1,5})\\1";
+        String regex = "([|#])(?<item>[a-zA-Z\\s]+)\\1(?<expirationDate>\\d{2}[\\/]\\d{2}[\\/]\\d{2})\\1(?<calories>[\\d]{1,4}|10000)\\1";
 
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(text);
